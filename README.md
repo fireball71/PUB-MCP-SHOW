@@ -1,7 +1,7 @@
-# PUB-MCP-SHOW
+# MCParks Show Tracker
 > Track live show times in-game, displayed in your local time zone.
 
-**PUB-MCP-SHOW** is a Fabric client mod built for the [MCParks](https://mcparks.us/) Minecraft server. It brings real-time show schedules directly into your HUD — countdowns, notifications, and one-click warping, all without leaving the game.
+**MCParks Show Tracker** is a Fabric client mod built for the [MCParks](https://mcparks.us/) Minecraft server. It brings real-time show schedules directly into your HUD — countdowns, notifications, and one-click warping, all without leaving the game.
 
 ---
 
