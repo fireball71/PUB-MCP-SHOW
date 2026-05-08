@@ -25,7 +25,7 @@
 ## 🔧 Installation
 
 1. Install [Fabric](https://fabricmc.net/use/installer/) for Minecraft **1.18.2**
-2. Download the latest release of PUB-MCP-SHOW
+2. Download the latest release of The MCParks Show Tracker
 3. Drop the `.jar` file into your `.minecraft/mods` folder
 4. Launch Minecraft and connect to MCParks
 5. Open your MagicBand and **right-click** the show button, or press **F8**
