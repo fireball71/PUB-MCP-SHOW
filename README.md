@@ -16,7 +16,7 @@
 
 ## 📋 Requirements
 
-- Minecraft **1.18.2**
+- Minecraft **26.3**
 - [Fabric Loader](https://fabricmc.net/)
 - [MCParks Server](https://mcparks.us/)
 
@@ -24,7 +24,7 @@
 
 ## 🔧 Installation
 
-1. Install [Fabric](https://fabricmc.net/use/installer/) for Minecraft **1.18.2**
+1. Install [Fabric](https://fabricmc.net/use/installer/) for Minecraft **26.3**
 2. Download the latest release of The MCParks Show Tracker
 3. Drop the `.jar` file into your `.minecraft/mods` folder
 4. Launch Minecraft and connect to MCParks
